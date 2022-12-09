@@ -36,11 +36,6 @@ function App() {
             title: "Task2",
             description: "This is Task-2"
         },
-        {
-            sno: 3,
-            title: "Task 3",
-            description: "This is Task-3"
-        }
     ]);
   return (
       <>
